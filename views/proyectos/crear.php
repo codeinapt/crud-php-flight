@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="card-footer text-muted">
-            <button type="button" name="" id="" class="btn btn-primary" btn-lg btn-block">Agregar</button>
+            <button type="submit" name="" id="" class="btn btn-primary" btn-lg btn-block">Agregar</button>
             
             <a name="" id="" class="btn btn-danger" href="#" role="button">Cancelar</a>
         </div>
