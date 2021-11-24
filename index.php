@@ -45,7 +45,7 @@ Flight::route('POST /crear', function(){
 Flight::route('POST /borrar', function(){
     
     $txtID=Flight::request()->data->txtID;
-    print_r($txtID);
+    
 });
 
 Flight::start();
